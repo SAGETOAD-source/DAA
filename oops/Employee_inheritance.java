@@ -39,7 +39,7 @@ class Employee extends Person {
 }
 
 // Main class
-public class employee_inheritance {
+public class Employee_inheritance {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

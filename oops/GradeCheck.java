@@ -37,6 +37,5 @@ public class GradeCheck {
                     System.out.println("Invalid Marks");
         }
 
-        sc.close();
-    }
-}
+    sc.close();
+}}
